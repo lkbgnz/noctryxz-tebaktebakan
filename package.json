@@ -1,0 +1,6 @@
+{
+  "name": "noctryxz-tebaktebakan",
+  "main": "api-tebaktebakan.js",
+  "scripts": { "start": "node api-tebaktebakan.js" },
+  "dependencies": { "express": "^4.18.2" }
+}
