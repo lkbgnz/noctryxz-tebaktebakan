@@ -1,0 +1,1602 @@
+[
+  {
+    "soal": "TEKA-TEKI SUSAH 1: Apa yang bisa mengitari dunia sambil tetap di satu sudut?",
+    "jawaban": "perangko"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 2: Semakin banyak lubang, semakin kuat. Apa itu?",
+    "jawaban": "rantai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 3: Aku adalah akhir dari segalanya, awal dari keabadian, ada di tengah kematian. Apa aku?",
+    "jawaban": "huruf a"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 4: Dua ayah dan dua anak pergi mancing dapat 3 ikan, masing-masing dapat 1. Kok bisa?",
+    "jawaban": "kakek ayah anak"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 5: Apa yang punya banyak mata tapi tidak bisa melihat?",
+    "jawaban": "nanas"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 6: Dibalik, aku tidak ada apa-apanya. Apa aku?",
+    "jawaban": "angka 0"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 7: Jika kamu punya aku, kamu ingin membagiku. Jika kamu membagiku, kamu tidak punya aku. Apa aku?",
+    "jawaban": "rahasia"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 8: Aku berbicara tanpa mulut, mendengar tanpa telinga, tidak punya tubuh tapi hidup dengan angin. Apa aku?",
+    "jawaban": "gema"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 9: Ada seorang pria lahir tahun 1990, meninggal tahun 1980, tapi umurnya 30 tahun saat mati. Bagaimana mungkin?",
+    "jawaban": "lahir 1990 SM"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 10: Apa yang naik tapi tidak pernah turun?",
+    "jawaban": "umur"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 11: Semakin diambil semakin besar. Apa itu?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 12: Apa yang punya leher tapi tidak punya kepala?",
+    "jawaban": "botol"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 13: Apa yang punya kunci tapi tidak bisa membuka pintu?",
+    "jawaban": "piano"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 14: Apa yang basah saat mengeringkan?",
+    "jawaban": "handuk"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 15: Apa yang tidak bisa dipegang tapi bisa pecah?",
+    "jawaban": "janji"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 16: Apa yang selalu datang tapi tidak pernah sampai?",
+    "jawaban": "besok"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 17: Aku diambil sebelum didapat. Apa aku?",
+    "jawaban": "foto"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 18: Semakin banyak kamu ambil, semakin banyak yang tertinggal. Apa itu?",
+    "jawaban": "jejak kaki"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 19: Apa yang bisa dipecahkan tanpa disentuh?",
+    "jawaban": "janji"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 20: Benda apa yang punya banyak gigi tapi tidak bisa menggigit?",
+    "jawaban": "sisir"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 21: Apa yang punya tangan tapi tidak bisa bertepuk?",
+    "jawaban": "jam"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 22: Apa yang terbang tanpa sayap, menangis tanpa mata?",
+    "jawaban": "awan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 23: Apa yang ada di tengah-tengah Jakarta?",
+    "jawaban": "huruf k"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 24: Jika ada 10 burung di pohon, ditembak 1, berapa sisa di pohon?",
+    "jawaban": "0 kabur semua"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 25: Apa yang bisa kamu tahan tanpa menyentuhnya?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 26: Aku punya kota tapi tidak ada rumah, punya gunung tapi tidak ada pohon. Apa aku?",
+    "jawaban": "peta"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 27: Apa yang jalan tanpa kaki?",
+    "jawaban": "jam dan sungai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 28: Apa yang selalu naik turun tapi tetap di tempat?",
+    "jawaban": "tangga"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 29: Apa yang hidup kalau makan, mati kalau minum?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 30: Semakin kotor aku semakin bersih. Apa aku?",
+    "jawaban": "sapu"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 31: Apa yang punya 1 mata tapi tidak bisa melihat?",
+    "jawaban": "jarum jahit"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 32: Aku ringan sebagai bulu, tapi orang terkuat pun tak bisa menahanku lama. Apa aku?",
+    "jawaban": "napas"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 33: Jika kamu sebut namaku, aku menghilang. Apa aku?",
+    "jawaban": "diam"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 34: Apa yang bisa berlari tapi tidak bisa berjalan?",
+    "jawaban": "air sungai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 35: Apa yang ada di akhir pelangi?",
+    "jawaban": "huruf i"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 36: Aku bukan hidup tapi aku tumbuh, aku tidak punya paru tapi butuh udara. Apa aku?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 37: Semakin banyak ada, semakin sedikit kamu lihat. Apa itu?",
+    "jawaban": "kegelapan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 38: Aku ada di antara langit dan laut. Apa aku?",
+    "jawaban": "huruf dan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 39: Apa yang diisi semakin kosong?",
+    "jawaban": "lubang"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 40: Apa yang tidak bisa bicara tapi bisa menjawab?",
+    "jawaban": "gema"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 41: Jika kamu menjatuhkanku aku pasti pecah, tapi berikan aku senyuman aku balik tersenyum. Apa aku?",
+    "jawaban": "cermin"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 42: Apa yang punya ekor tapi bukan hewan?",
+    "jawaban": "layang-layang"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 43: Apa yang punya 5 jari tapi bukan manusia?",
+    "jawaban": "sarung tangan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 44: Aku ada di awal buku, di akhir film, di tengah cerita. Apa aku?",
+    "jawaban": "huruf u"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 45: Apa yang bisa naik ke atas tanpa pernah turun kembali?",
+    "jawaban": "umur lagi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 46: Apa yang punya banyak jarum tapi tidak bisa menjahit?",
+    "jawaban": "landak"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 47: Apa yang datang sekali dalam satu menit, dua kali dalam satu momen, tapi tidak pernah dalam seribu tahun?",
+    "jawaban": "huruf m"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 48: Orang buta melihatnya, orang tuli mendengarnya, orang bisu mengatakannya. Apa itu?",
+    "jawaban": "kebohongan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 49: Apa yang semakin kamu jaga semakin hilang?",
+    "jawaban": "tidak ada tangga rumah satu lantai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 50: Ada rumah satu lantai semua kuning, dinding kuning, pintu kuning, apa warna tangganya?",
+    "jawaban": "koboi kudanya bernama Jumat"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 51: Seorang koboi masuk kota hari Jumat, tinggal 3 hari, keluar hari Jumat. Bagaimana bisa?",
+    "jawaban": "pilihan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 52: Jika kamu punya 3, kamu punya 3. Jika punya 2, kamu punya 2. Tapi jika punya 1, kamu tidak punya apa-apa. Apa itu?",
+    "jawaban": "pintu"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 53: Apa yang tidak pernah bertanya tapi selalu dijawab?",
+    "jawaban": "janji lagi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 54: Apa yang bisa kamu pecahkan tanpa menyentuhnya?",
+    "jawaban": "koin"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 55: Apa yang punya kepala dan ekor tapi tidak punya tubuh?",
+    "jawaban": "ilmu"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 56: Semakin banyak kamu memberi, semakin banyak kamu punya. Apa itu?",
+    "jawaban": "masa depan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 57: Apa yang selalu ada di depan tapi tak terlihat?",
+    "jawaban": "cahaya"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 58: Apa yang bisa mengisi ruangan tapi tidak memakan tempat?",
+    "jawaban": "perangko"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 59: Aku pergi kemana-mana tapi tetap di tempat. Apa aku?",
+    "jawaban": "baterai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 60: Apa yang tidak hidup tapi bisa mati?",
+    "jawaban": "buku"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 61: Apa yang punya banyak kata tapi tidak pernah bicara?",
+    "jawaban": "pilek"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 62: Apa yang bisa kamu tangkap tapi tidak bisa kamu lempar?",
+    "jawaban": "hujan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 63: Apa yang jatuh tapi tidak pernah terluka?",
+    "jawaban": "balon udara"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 64: Apa yang naik ke atas tapi tidak pernah turun?",
+    "jawaban": "sungai"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 65: Apa yang punya banyak cabang tapi tidak punya daun?",
+    "jawaban": "huruf L"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 66: Apa yang bisa kamu lihat di siang hari tapi tidak di malam hari, ada di malam tapi tidak di siang?",
+    "jawaban": "rokok"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 67: Apa yang semakin lama semakin pendek?",
+    "jawaban": "spons"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 68: Apa yang bisa kamu buat tanpa melihatnya?",
+    "jawaban": "peta"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 69: Apa yang punya banyak lubang tapi bisa menampung air?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 70: Apa yang punya banyak jalan tapi tidak bisa jalan?",
+    "jawaban": "api"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 71: Apa yang bisa kamu dengar tapi tidak bisa kamu lihat?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 72: Apa yang selalu lapar tapi tidak pernah kenyang?",
+    "jawaban": "hadiah"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 73: Apa yang bisa terbang seharian tanpa pernah mendarat?",
+    "jawaban": "waktu"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 74: Apa yang bisa kamu buka tanpa kunci?",
+    "jawaban": "piring"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 75: Apa yang bisa kamu hitung tapi tidak bisa kamu lihat?",
+    "jawaban": "daun bawang"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 76: Apa yang bisa kamu beli untuk makan tapi tidak pernah dimakan?",
+    "jawaban": "kacamata"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 77: Apa yang punya banyak hati tapi tidak punya perasaan?",
+    "jawaban": "rokok"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 78: Apa yang bisa kamu pakai tapi tidak bisa kamu lihat saat memakainya?",
+    "jawaban": "huruf d"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 79: Apa yang semakin kamu tarik semakin pendek?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 80: Apa yang bisa kamu temukan di akhir dunia?",
+    "jawaban": "janji"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 81: Apa yang bisa kamu lihat dengan mata tertutup?",
+    "jawaban": "rambut"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 82: Apa yang bisa kamu buat tapi tidak bisa kamu simpan?",
+    "jawaban": "huruf e"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 83: Apa yang punya banyak kaki tapi tidak bisa berjalan?",
+    "jawaban": "bayangan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 84: Apa yang bisa kamu potong tapi tidak bisa kamu makan?",
+    "jawaban": "suara"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 85: Apa yang bisa kamu lihat sekali dalam setahun, dua kali dalam seminggu, tapi tidak pernah dalam sehari?",
+    "jawaban": "perasaan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 86: Apa yang bisa kamu dengar tapi tidak bisa kamu sentuh?",
+    "jawaban": "mimpi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 87: Apa yang bisa kamu lihat tapi tidak bisa kamu sentuh?",
+    "jawaban": "suara hati"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 88: Apa yang bisa kamu ambil tapi tidak bisa kamu bawa?",
+    "jawaban": "ide"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 89: Apa yang bisa kamu buat tanpa bahan?",
+    "jawaban": "gelap"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 90: Apa yang bisa kamu lihat di kegelapan?",
+    "jawaban": "hening"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 91: Apa yang bisa kamu dengar di keheningan?",
+    "jawaban": "angin"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 92: Apa yang bisa kamu rasakan tanpa menyentuh?",
+    "jawaban": "imajinasi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 93: Apa yang bisa kamu lihat tanpa mata?",
+    "jawaban": "pendengaran"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 94: Apa yang bisa kamu dengar tanpa telinga?",
+    "jawaban": "imajinasi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 95: Apa yang bisa kamu buat tanpa tangan?",
+    "jawaban": "suara batin"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 96: Apa yang bisa kamu lihat tanpa cahaya?",
+    "jawaban": "perasaan"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 97: Apa yang bisa kamu dengar tanpa suara?",
+    "jawaban": "intuisi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 98: Apa yang bisa kamu rasakan tanpa hati?",
+    "jawaban": "pendengaran batin"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 99: Apa yang bisa kamu lihat tanpa melihat?",
+    "jawaban": "kreasi"
+  },
+  {
+    "soal": "TEKA-TEKI SUSAH 100: Apa yang bisa kamu dengar tanpa mendengar?",
+    "jawaban": "visi"
+  },
+  {
+    "soal": "LOGIKA 1: Seorang ayah punya 5 anak: Ani, Ani, Ani, Ani, siapa anak kelima?",
+    "jawaban": "Anak kelima namanya Siapa atau kamu sendiri"
+  },
+  {
+    "soal": "LOGIKA 2: 3 saklar di luar, 1 lampu di dalam, hanya boleh masuk sekali. Cara tau saklar mana?",
+    "jawaban": "Nyalakan saklar 1 lama matikan, nyalakan saklar 2, masuk cek nyala dan hangat"
+  },
+  {
+    "soal": "LOGIKA 3: Kamu ikut lomba lari, kamu lewati pelari posisi 2, sekarang posisi berapa?",
+    "jawaban": "Posisi 2"
+  },
+  {
+    "soal": "LOGIKA 4: Ada 10 burung di pohon ditembak 1, berapa sisa di pohon?",
+    "jawaban": "0, sisanya terbang"
+  },
+  {
+    "soal": "LOGIKA 5: Jika 1=3, 2=3, 3=5, 4=4, 5=4, berapa 6?",
+    "jawaban": "3 (jumlah huruf)"
+  },
+  {
+    "soal": "LOGIKA 6: Kamu mengendarai bus, halte pertama naik 5 turun 2, halte kedua naik 10 turun 3. Siapa nama sopir?",
+    "jawaban": "Nama kamu sendiri"
+  },
+  {
+    "soal": "LOGIKA 7: Mana lebih berat 1kg kapas atau 1kg besi?",
+    "jawaban": "Sama berat 1kg"
+  },
+  {
+    "soal": "LOGIKA 8: Di tahun berapa 1+1=3?",
+    "jawaban": "Saat salah hitung"
+  },
+  {
+    "soal": "LOGIKA 9: Apa yang selalu ada di depan kamu tapi tidak bisa dilihat?",
+    "jawaban": "Masa depan"
+  },
+  {
+    "soal": "LOGIKA 10: Jika punya 3 apel dan ambil 2, berapa apel yang kamu punya?",
+    "jawaban": "2 yang kamu ambil"
+  },
+  {
+    "soal": "LOGIKA 11: Jam dinding berdentang 1 kali butuh 1 detik, berapa detik untuk 3 kali dentang?",
+    "jawaban": "2 detik jeda"
+  },
+  {
+    "soal": "LOGIKA 12: Ada listrik mati, kamu punya korek, lilin, lampu minyak. Mana dinyalakan dulu?",
+    "jawaban": "Korek api dulu"
+  },
+  {
+    "soal": "LOGIKA 13: Ada 8 koin, 1 palsu lebih ringan, timbangan 2 kali. Cara cari?",
+    "jawaban": "Timbang 3 vs 3, sisihkan"
+  },
+  {
+    "soal": "LOGIKA 14: Seorang pria melihat foto dan berkata: Ayah dari orang di foto adalah anak ayahku. Siapa di foto?",
+    "jawaban": "Anaknya sendiri"
+  },
+  {
+    "soal": "LOGIKA 15: Jika semua Blip adalah Blop, beberapa Blop adalah Blup, apakah semua Blip adalah Blup?",
+    "jawaban": "Tidak tentu, belum tentu"
+  },
+  {
+    "soal": "LOGIKA 16: Di mana kamu bisa menemukan jalan tanpa mobil?",
+    "jawaban": "Di peta"
+  },
+  {
+    "soal": "LOGIKA 17: Kata apa yang salah eja di kamus?",
+    "jawaban": "Kata salah (memang tulisannya salah)"
+  },
+  {
+    "soal": "LOGIKA 18: Apa yang naik ke atas tanpa pernah turun?",
+    "jawaban": "Umur"
+  },
+  {
+    "soal": "LOGIKA 19: Apa yang punya banyak kunci tapi tidak ada gembok?",
+    "jawaban": "Piano"
+  },
+  {
+    "soal": "LOGIKA 20: Jika 5 mesin butuh 5 menit buat 5 barang, berapa menit 100 mesin buat 100 barang?",
+    "jawaban": "5 menit"
+  },
+  {
+    "soal": "LOGIKA 21: Soal logika unik 21: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 21"
+  },
+  {
+    "soal": "LOGIKA 22: Soal logika unik 22: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 22"
+  },
+  {
+    "soal": "LOGIKA 23: Soal logika unik 23: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 23"
+  },
+  {
+    "soal": "LOGIKA 24: Soal logika unik 24: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 24"
+  },
+  {
+    "soal": "LOGIKA 25: Soal logika unik 25: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 25"
+  },
+  {
+    "soal": "LOGIKA 26: Soal logika unik 26: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 26"
+  },
+  {
+    "soal": "LOGIKA 27: Soal logika unik 27: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 27"
+  },
+  {
+    "soal": "LOGIKA 28: Soal logika unik 28: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 28"
+  },
+  {
+    "soal": "LOGIKA 29: Soal logika unik 29: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 29"
+  },
+  {
+    "soal": "LOGIKA 30: Soal logika unik 30: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 30"
+  },
+  {
+    "soal": "LOGIKA 31: Soal logika unik 31: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 31"
+  },
+  {
+    "soal": "LOGIKA 32: Soal logika unik 32: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 32"
+  },
+  {
+    "soal": "LOGIKA 33: Soal logika unik 33: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 33"
+  },
+  {
+    "soal": "LOGIKA 34: Soal logika unik 34: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 34"
+  },
+  {
+    "soal": "LOGIKA 35: Soal logika unik 35: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 35"
+  },
+  {
+    "soal": "LOGIKA 36: Soal logika unik 36: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 36"
+  },
+  {
+    "soal": "LOGIKA 37: Soal logika unik 37: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 37"
+  },
+  {
+    "soal": "LOGIKA 38: Soal logika unik 38: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 38"
+  },
+  {
+    "soal": "LOGIKA 39: Soal logika unik 39: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 39"
+  },
+  {
+    "soal": "LOGIKA 40: Soal logika unik 40: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 40"
+  },
+  {
+    "soal": "LOGIKA 41: Soal logika unik 41: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 41"
+  },
+  {
+    "soal": "LOGIKA 42: Soal logika unik 42: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 42"
+  },
+  {
+    "soal": "LOGIKA 43: Soal logika unik 43: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 43"
+  },
+  {
+    "soal": "LOGIKA 44: Soal logika unik 44: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 44"
+  },
+  {
+    "soal": "LOGIKA 45: Soal logika unik 45: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 45"
+  },
+  {
+    "soal": "LOGIKA 46: Soal logika unik 46: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 46"
+  },
+  {
+    "soal": "LOGIKA 47: Soal logika unik 47: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 47"
+  },
+  {
+    "soal": "LOGIKA 48: Soal logika unik 48: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 48"
+  },
+  {
+    "soal": "LOGIKA 49: Soal logika unik 49: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 49"
+  },
+  {
+    "soal": "LOGIKA 50: Soal logika unik 50: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 50"
+  },
+  {
+    "soal": "LOGIKA 51: Soal logika unik 51: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 51"
+  },
+  {
+    "soal": "LOGIKA 52: Soal logika unik 52: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 52"
+  },
+  {
+    "soal": "LOGIKA 53: Soal logika unik 53: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 53"
+  },
+  {
+    "soal": "LOGIKA 54: Soal logika unik 54: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 54"
+  },
+  {
+    "soal": "LOGIKA 55: Soal logika unik 55: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 55"
+  },
+  {
+    "soal": "LOGIKA 56: Soal logika unik 56: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 56"
+  },
+  {
+    "soal": "LOGIKA 57: Soal logika unik 57: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 57"
+  },
+  {
+    "soal": "LOGIKA 58: Soal logika unik 58: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 58"
+  },
+  {
+    "soal": "LOGIKA 59: Soal logika unik 59: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 59"
+  },
+  {
+    "soal": "LOGIKA 60: Soal logika unik 60: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 60"
+  },
+  {
+    "soal": "LOGIKA 61: Soal logika unik 61: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 61"
+  },
+  {
+    "soal": "LOGIKA 62: Soal logika unik 62: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 62"
+  },
+  {
+    "soal": "LOGIKA 63: Soal logika unik 63: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 63"
+  },
+  {
+    "soal": "LOGIKA 64: Soal logika unik 64: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 64"
+  },
+  {
+    "soal": "LOGIKA 65: Soal logika unik 65: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 65"
+  },
+  {
+    "soal": "LOGIKA 66: Soal logika unik 66: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 66"
+  },
+  {
+    "soal": "LOGIKA 67: Soal logika unik 67: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 67"
+  },
+  {
+    "soal": "LOGIKA 68: Soal logika unik 68: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 68"
+  },
+  {
+    "soal": "LOGIKA 69: Soal logika unik 69: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 69"
+  },
+  {
+    "soal": "LOGIKA 70: Soal logika unik 70: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 70"
+  },
+  {
+    "soal": "LOGIKA 71: Soal logika unik 71: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 71"
+  },
+  {
+    "soal": "LOGIKA 72: Soal logika unik 72: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 72"
+  },
+  {
+    "soal": "LOGIKA 73: Soal logika unik 73: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 73"
+  },
+  {
+    "soal": "LOGIKA 74: Soal logika unik 74: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 74"
+  },
+  {
+    "soal": "LOGIKA 75: Soal logika unik 75: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 75"
+  },
+  {
+    "soal": "LOGIKA 76: Soal logika unik 76: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 76"
+  },
+  {
+    "soal": "LOGIKA 77: Soal logika unik 77: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 77"
+  },
+  {
+    "soal": "LOGIKA 78: Soal logika unik 78: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 78"
+  },
+  {
+    "soal": "LOGIKA 79: Soal logika unik 79: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 79"
+  },
+  {
+    "soal": "LOGIKA 80: Soal logika unik 80: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 80"
+  },
+  {
+    "soal": "LOGIKA 81: Soal logika unik 81: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 81"
+  },
+  {
+    "soal": "LOGIKA 82: Soal logika unik 82: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 82"
+  },
+  {
+    "soal": "LOGIKA 83: Soal logika unik 83: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 83"
+  },
+  {
+    "soal": "LOGIKA 84: Soal logika unik 84: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 84"
+  },
+  {
+    "soal": "LOGIKA 85: Soal logika unik 85: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 85"
+  },
+  {
+    "soal": "LOGIKA 86: Soal logika unik 86: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 86"
+  },
+  {
+    "soal": "LOGIKA 87: Soal logika unik 87: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 87"
+  },
+  {
+    "soal": "LOGIKA 88: Soal logika unik 88: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 88"
+  },
+  {
+    "soal": "LOGIKA 89: Soal logika unik 89: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 89"
+  },
+  {
+    "soal": "LOGIKA 90: Soal logika unik 90: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 90"
+  },
+  {
+    "soal": "LOGIKA 91: Soal logika unik 91: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 91"
+  },
+  {
+    "soal": "LOGIKA 92: Soal logika unik 92: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 92"
+  },
+  {
+    "soal": "LOGIKA 93: Soal logika unik 93: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 93"
+  },
+  {
+    "soal": "LOGIKA 94: Soal logika unik 94: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 94"
+  },
+  {
+    "soal": "LOGIKA 95: Soal logika unik 95: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 95"
+  },
+  {
+    "soal": "LOGIKA 96: Soal logika unik 96: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 96"
+  },
+  {
+    "soal": "LOGIKA 97: Soal logika unik 97: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 97"
+  },
+  {
+    "soal": "LOGIKA 98: Soal logika unik 98: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 98"
+  },
+  {
+    "soal": "LOGIKA 99: Soal logika unik 99: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 99"
+  },
+  {
+    "soal": "LOGIKA 100: Soal logika unik 100: Jika A lebih tua dari B, B lebih tua dari C, siapa paling muda?",
+    "jawaban": "Jawaban logika 100"
+  },
+  {
+    "soal": "MATEMATIKA 1: Jika 10 x 2 = ?, berapa 10 x 2 + 10?",
+    "jawaban": "30"
+  },
+  {
+    "soal": "MATEMATIKA 2: Jika 11 x 3 = ?, berapa 11 x 3 + 11?",
+    "jawaban": "44"
+  },
+  {
+    "soal": "MATEMATIKA 3: Jika 12 x 4 = ?, berapa 12 x 4 + 12?",
+    "jawaban": "60"
+  },
+  {
+    "soal": "MATEMATIKA 4: Jika 13 x 5 = ?, berapa 13 x 5 + 13?",
+    "jawaban": "78"
+  },
+  {
+    "soal": "MATEMATIKA 5: Jika 14 x 6 = ?, berapa 14 x 6 + 14?",
+    "jawaban": "98"
+  },
+  {
+    "soal": "MATEMATIKA 6: Jika 15 x 7 = ?, berapa 15 x 7 + 15?",
+    "jawaban": "120"
+  },
+  {
+    "soal": "MATEMATIKA 7: Jika 16 x 8 = ?, berapa 16 x 8 + 16?",
+    "jawaban": "144"
+  },
+  {
+    "soal": "MATEMATIKA 8: Jika 17 x 9 = ?, berapa 17 x 9 + 17?",
+    "jawaban": "170"
+  },
+  {
+    "soal": "MATEMATIKA 9: Jika 18 x 10 = ?, berapa 18 x 10 + 18?",
+    "jawaban": "198"
+  },
+  {
+    "soal": "MATEMATIKA 10: Jika 19 x 11 = ?, berapa 19 x 11 + 19?",
+    "jawaban": "228"
+  },
+  {
+    "soal": "MATEMATIKA 11: Jika 20 x 12 = ?, berapa 20 x 12 + 20?",
+    "jawaban": "260"
+  },
+  {
+    "soal": "MATEMATIKA 12: Jika 21 x 13 = ?, berapa 21 x 13 + 21?",
+    "jawaban": "294"
+  },
+  {
+    "soal": "MATEMATIKA 13: Jika 22 x 14 = ?, berapa 22 x 14 + 22?",
+    "jawaban": "330"
+  },
+  {
+    "soal": "MATEMATIKA 14: Jika 23 x 15 = ?, berapa 23 x 15 + 23?",
+    "jawaban": "368"
+  },
+  {
+    "soal": "MATEMATIKA 15: Jika 24 x 16 = ?, berapa 24 x 16 + 24?",
+    "jawaban": "408"
+  },
+  {
+    "soal": "MATEMATIKA 16: Jika 25 x 17 = ?, berapa 25 x 17 + 25?",
+    "jawaban": "450"
+  },
+  {
+    "soal": "MATEMATIKA 17: Jika 26 x 18 = ?, berapa 26 x 18 + 26?",
+    "jawaban": "494"
+  },
+  {
+    "soal": "MATEMATIKA 18: Jika 27 x 19 = ?, berapa 27 x 19 + 27?",
+    "jawaban": "540"
+  },
+  {
+    "soal": "MATEMATIKA 19: Jika 28 x 20 = ?, berapa 28 x 20 + 28?",
+    "jawaban": "588"
+  },
+  {
+    "soal": "MATEMATIKA 20: Jika 29 x 21 = ?, berapa 29 x 21 + 29?",
+    "jawaban": "638"
+  },
+  {
+    "soal": "MATEMATIKA 21: Jika 30 x 22 = ?, berapa 30 x 22 + 30?",
+    "jawaban": "690"
+  },
+  {
+    "soal": "MATEMATIKA 22: Jika 31 x 23 = ?, berapa 31 x 23 + 31?",
+    "jawaban": "744"
+  },
+  {
+    "soal": "MATEMATIKA 23: Jika 32 x 24 = ?, berapa 32 x 24 + 32?",
+    "jawaban": "800"
+  },
+  {
+    "soal": "MATEMATIKA 24: Jika 33 x 25 = ?, berapa 33 x 25 + 33?",
+    "jawaban": "858"
+  },
+  {
+    "soal": "MATEMATIKA 25: Jika 34 x 26 = ?, berapa 34 x 26 + 34?",
+    "jawaban": "918"
+  },
+  {
+    "soal": "MATEMATIKA 26: Jika 35 x 27 = ?, berapa 35 x 27 + 35?",
+    "jawaban": "980"
+  },
+  {
+    "soal": "MATEMATIKA 27: Jika 36 x 28 = ?, berapa 36 x 28 + 36?",
+    "jawaban": "1044"
+  },
+  {
+    "soal": "MATEMATIKA 28: Jika 37 x 29 = ?, berapa 37 x 29 + 37?",
+    "jawaban": "1110"
+  },
+  {
+    "soal": "MATEMATIKA 29: Jika 38 x 30 = ?, berapa 38 x 30 + 38?",
+    "jawaban": "1178"
+  },
+  {
+    "soal": "MATEMATIKA 30: Jika 39 x 31 = ?, berapa 39 x 31 + 39?",
+    "jawaban": "1248"
+  },
+  {
+    "soal": "MATEMATIKA 31: Jika 40 x 32 = ?, berapa 40 x 32 + 40?",
+    "jawaban": "1320"
+  },
+  {
+    "soal": "MATEMATIKA 32: Jika 41 x 33 = ?, berapa 41 x 33 + 41?",
+    "jawaban": "1394"
+  },
+  {
+    "soal": "MATEMATIKA 33: Jika 42 x 34 = ?, berapa 42 x 34 + 42?",
+    "jawaban": "1470"
+  },
+  {
+    "soal": "MATEMATIKA 34: Jika 43 x 35 = ?, berapa 43 x 35 + 43?",
+    "jawaban": "1548"
+  },
+  {
+    "soal": "MATEMATIKA 35: Jika 44 x 36 = ?, berapa 44 x 36 + 44?",
+    "jawaban": "1628"
+  },
+  {
+    "soal": "MATEMATIKA 36: Jika 45 x 37 = ?, berapa 45 x 37 + 45?",
+    "jawaban": "1710"
+  },
+  {
+    "soal": "MATEMATIKA 37: Jika 46 x 38 = ?, berapa 46 x 38 + 46?",
+    "jawaban": "1794"
+  },
+  {
+    "soal": "MATEMATIKA 38: Jika 47 x 39 = ?, berapa 47 x 39 + 47?",
+    "jawaban": "1880"
+  },
+  {
+    "soal": "MATEMATIKA 39: Jika 48 x 40 = ?, berapa 48 x 40 + 48?",
+    "jawaban": "1968"
+  },
+  {
+    "soal": "MATEMATIKA 40: Jika 49 x 41 = ?, berapa 49 x 41 + 49?",
+    "jawaban": "2058"
+  },
+  {
+    "soal": "MATEMATIKA 41: Jika 50 x 42 = ?, berapa 50 x 42 + 50?",
+    "jawaban": "2150"
+  },
+  {
+    "soal": "MATEMATIKA 42: Jika 51 x 43 = ?, berapa 51 x 43 + 51?",
+    "jawaban": "2244"
+  },
+  {
+    "soal": "MATEMATIKA 43: Jika 52 x 44 = ?, berapa 52 x 44 + 52?",
+    "jawaban": "2340"
+  },
+  {
+    "soal": "MATEMATIKA 44: Jika 53 x 45 = ?, berapa 53 x 45 + 53?",
+    "jawaban": "2438"
+  },
+  {
+    "soal": "MATEMATIKA 45: Jika 54 x 46 = ?, berapa 54 x 46 + 54?",
+    "jawaban": "2538"
+  },
+  {
+    "soal": "MATEMATIKA 46: Jika 55 x 47 = ?, berapa 55 x 47 + 55?",
+    "jawaban": "2640"
+  },
+  {
+    "soal": "MATEMATIKA 47: Jika 56 x 48 = ?, berapa 56 x 48 + 56?",
+    "jawaban": "2744"
+  },
+  {
+    "soal": "MATEMATIKA 48: Jika 57 x 49 = ?, berapa 57 x 49 + 57?",
+    "jawaban": "2850"
+  },
+  {
+    "soal": "MATEMATIKA 49: Jika 58 x 50 = ?, berapa 58 x 50 + 58?",
+    "jawaban": "2958"
+  },
+  {
+    "soal": "MATEMATIKA 50: Jika 59 x 51 = ?, berapa 59 x 51 + 59?",
+    "jawaban": "3068"
+  },
+  {
+    "soal": "MATEMATIKA 51: Jika 60 x 52 = ?, berapa 60 x 52 + 60?",
+    "jawaban": "3180"
+  },
+  {
+    "soal": "MATEMATIKA 52: Jika 61 x 53 = ?, berapa 61 x 53 + 61?",
+    "jawaban": "3294"
+  },
+  {
+    "soal": "MATEMATIKA 53: Jika 62 x 54 = ?, berapa 62 x 54 + 62?",
+    "jawaban": "3410"
+  },
+  {
+    "soal": "MATEMATIKA 54: Jika 63 x 55 = ?, berapa 63 x 55 + 63?",
+    "jawaban": "3528"
+  },
+  {
+    "soal": "MATEMATIKA 55: Jika 64 x 56 = ?, berapa 64 x 56 + 64?",
+    "jawaban": "3648"
+  },
+  {
+    "soal": "MATEMATIKA 56: Jika 65 x 57 = ?, berapa 65 x 57 + 65?",
+    "jawaban": "3770"
+  },
+  {
+    "soal": "MATEMATIKA 57: Jika 66 x 58 = ?, berapa 66 x 58 + 66?",
+    "jawaban": "3894"
+  },
+  {
+    "soal": "MATEMATIKA 58: Jika 67 x 59 = ?, berapa 67 x 59 + 67?",
+    "jawaban": "4020"
+  },
+  {
+    "soal": "MATEMATIKA 59: Jika 68 x 60 = ?, berapa 68 x 60 + 68?",
+    "jawaban": "4148"
+  },
+  {
+    "soal": "MATEMATIKA 60: Jika 69 x 61 = ?, berapa 69 x 61 + 69?",
+    "jawaban": "4278"
+  },
+  {
+    "soal": "MATEMATIKA 61: Jika 70 x 62 = ?, berapa 70 x 62 + 70?",
+    "jawaban": "4410"
+  },
+  {
+    "soal": "MATEMATIKA 62: Jika 71 x 63 = ?, berapa 71 x 63 + 71?",
+    "jawaban": "4544"
+  },
+  {
+    "soal": "MATEMATIKA 63: Jika 72 x 64 = ?, berapa 72 x 64 + 72?",
+    "jawaban": "4680"
+  },
+  {
+    "soal": "MATEMATIKA 64: Jika 73 x 65 = ?, berapa 73 x 65 + 73?",
+    "jawaban": "4818"
+  },
+  {
+    "soal": "MATEMATIKA 65: Jika 74 x 66 = ?, berapa 74 x 66 + 74?",
+    "jawaban": "4958"
+  },
+  {
+    "soal": "MATEMATIKA 66: Jika 75 x 67 = ?, berapa 75 x 67 + 75?",
+    "jawaban": "5100"
+  },
+  {
+    "soal": "MATEMATIKA 67: Jika 76 x 68 = ?, berapa 76 x 68 + 76?",
+    "jawaban": "5244"
+  },
+  {
+    "soal": "MATEMATIKA 68: Jika 77 x 69 = ?, berapa 77 x 69 + 77?",
+    "jawaban": "5390"
+  },
+  {
+    "soal": "MATEMATIKA 69: Jika 78 x 70 = ?, berapa 78 x 70 + 78?",
+    "jawaban": "5538"
+  },
+  {
+    "soal": "MATEMATIKA 70: Jika 79 x 71 = ?, berapa 79 x 71 + 79?",
+    "jawaban": "5688"
+  },
+  {
+    "soal": "MATEMATIKA 71: Jika 80 x 72 = ?, berapa 80 x 72 + 80?",
+    "jawaban": "5840"
+  },
+  {
+    "soal": "MATEMATIKA 72: Jika 81 x 73 = ?, berapa 81 x 73 + 81?",
+    "jawaban": "5994"
+  },
+  {
+    "soal": "MATEMATIKA 73: Jika 82 x 74 = ?, berapa 82 x 74 + 82?",
+    "jawaban": "6150"
+  },
+  {
+    "soal": "MATEMATIKA 74: Jika 83 x 75 = ?, berapa 83 x 75 + 83?",
+    "jawaban": "6308"
+  },
+  {
+    "soal": "MATEMATIKA 75: Jika 84 x 76 = ?, berapa 84 x 76 + 84?",
+    "jawaban": "6468"
+  },
+  {
+    "soal": "MATEMATIKA 76: Jika 85 x 77 = ?, berapa 85 x 77 + 85?",
+    "jawaban": "6630"
+  },
+  {
+    "soal": "MATEMATIKA 77: Jika 86 x 78 = ?, berapa 86 x 78 + 86?",
+    "jawaban": "6794"
+  },
+  {
+    "soal": "MATEMATIKA 78: Jika 87 x 79 = ?, berapa 87 x 79 + 87?",
+    "jawaban": "6960"
+  },
+  {
+    "soal": "MATEMATIKA 79: Jika 88 x 80 = ?, berapa 88 x 80 + 88?",
+    "jawaban": "7128"
+  },
+  {
+    "soal": "MATEMATIKA 80: Jika 89 x 81 = ?, berapa 89 x 81 + 89?",
+    "jawaban": "7298"
+  },
+  {
+    "soal": "MATEMATIKA 81: Jika 90 x 82 = ?, berapa 90 x 82 + 90?",
+    "jawaban": "7470"
+  },
+  {
+    "soal": "MATEMATIKA 82: Jika 91 x 83 = ?, berapa 91 x 83 + 91?",
+    "jawaban": "7644"
+  },
+  {
+    "soal": "MATEMATIKA 83: Jika 92 x 84 = ?, berapa 92 x 84 + 92?",
+    "jawaban": "7820"
+  },
+  {
+    "soal": "MATEMATIKA 84: Jika 93 x 85 = ?, berapa 93 x 85 + 93?",
+    "jawaban": "7998"
+  },
+  {
+    "soal": "MATEMATIKA 85: Jika 94 x 86 = ?, berapa 94 x 86 + 94?",
+    "jawaban": "8178"
+  },
+  {
+    "soal": "MATEMATIKA 86: Jika 95 x 87 = ?, berapa 95 x 87 + 95?",
+    "jawaban": "8360"
+  },
+  {
+    "soal": "MATEMATIKA 87: Jika 96 x 88 = ?, berapa 96 x 88 + 96?",
+    "jawaban": "8544"
+  },
+  {
+    "soal": "MATEMATIKA 88: Jika 97 x 89 = ?, berapa 97 x 89 + 97?",
+    "jawaban": "8730"
+  },
+  {
+    "soal": "MATEMATIKA 89: Jika 98 x 90 = ?, berapa 98 x 90 + 98?",
+    "jawaban": "8918"
+  },
+  {
+    "soal": "MATEMATIKA 90: Jika 99 x 91 = ?, berapa 99 x 91 + 99?",
+    "jawaban": "9108"
+  },
+  {
+    "soal": "MATEMATIKA 91: Jika 100 x 92 = ?, berapa 100 x 92 + 100?",
+    "jawaban": "9300"
+  },
+  {
+    "soal": "MATEMATIKA 92: Jika 101 x 93 = ?, berapa 101 x 93 + 101?",
+    "jawaban": "9494"
+  },
+  {
+    "soal": "MATEMATIKA 93: Jika 102 x 94 = ?, berapa 102 x 94 + 102?",
+    "jawaban": "9690"
+  },
+  {
+    "soal": "MATEMATIKA 94: Jika 103 x 95 = ?, berapa 103 x 95 + 103?",
+    "jawaban": "9888"
+  },
+  {
+    "soal": "MATEMATIKA 95: Jika 104 x 96 = ?, berapa 104 x 96 + 104?",
+    "jawaban": "10088"
+  },
+  {
+    "soal": "MATEMATIKA 96: Jika 105 x 97 = ?, berapa 105 x 97 + 105?",
+    "jawaban": "10290"
+  },
+  {
+    "soal": "MATEMATIKA 97: Jika 106 x 98 = ?, berapa 106 x 98 + 106?",
+    "jawaban": "10494"
+  },
+  {
+    "soal": "MATEMATIKA 98: Jika 107 x 99 = ?, berapa 107 x 99 + 107?",
+    "jawaban": "10700"
+  },
+  {
+    "soal": "MATEMATIKA 99: Jika 108 x 100 = ?, berapa 108 x 100 + 108?",
+    "jawaban": "10908"
+  },
+  {
+    "soal": "MATEMATIKA 100: Jika 109 x 101 = ?, berapa 109 x 101 + 109?",
+    "jawaban": "11118"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 1: Negara apa yang punya 2 ibukota, Amsterdam dan Den Haag untuk pemerintahan?",
+    "jawaban": "Belanda"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 2: Planet apa yang punya cincin paling terlihat dari bumi?",
+    "jawaban": "Saturnus"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 3: Siapa penemu lampu pijar?",
+    "jawaban": "Thomas Alva Edison"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 4: Gunung tertinggi di Indonesia?",
+    "jawaban": "Puncak Jaya Wijaya"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 5: Sungai terpanjang di dunia?",
+    "jawaban": "Sungai Nil"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 6: Ibukota Australia?",
+    "jawaban": "Canberra"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 7: Elemen kimia dengan simbol Au?",
+    "jawaban": "Emas"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 8: Siapa penulis Harry Potter?",
+    "jawaban": "J.K. Rowling"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 9: Tahun berapa Indonesia merdeka?",
+    "jawaban": "1945"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 10: Benua terbesar di dunia?",
+    "jawaban": "Asia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 11: Hewan tercepat di darat?",
+    "jawaban": "Cheetah"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 12: Negara dengan piramida Giza?",
+    "jawaban": "Mesir"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 13: Ibukota Jepang?",
+    "jawaban": "Tokyo"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 14: Siapa presiden pertama Indonesia?",
+    "jawaban": "Soekarno"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 15: Berapa jumlah pemain sepak bola dalam satu tim?",
+    "jawaban": "11"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 16: Laut apa yang paling asin?",
+    "jawaban": "Laut Mati"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 17: Siapa penemu gravitasi?",
+    "jawaban": "Isaac Newton"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 18: Ibukota Kanada?",
+    "jawaban": "Ottawa"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 19: Apa ibukota dari Brazil?",
+    "jawaban": "Brasilia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 20: Gunung tertinggi di dunia?",
+    "jawaban": "Everest"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 21: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 22: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 23: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 24: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 25: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 26: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 27: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 28: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 29: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 30: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 31: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 32: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 33: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 34: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 35: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 36: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 37: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 38: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 39: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 40: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 41: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 42: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 43: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 44: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 45: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 46: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 47: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 48: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 49: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 50: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 51: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 52: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 53: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 54: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 55: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 56: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 57: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 58: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 59: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 60: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 61: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 62: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 63: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 64: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 65: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 66: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 67: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 68: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 69: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 70: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 71: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 72: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 73: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 74: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 75: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 76: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 77: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 78: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 79: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 80: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 81: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 82: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 83: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 84: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 85: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 86: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 87: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 88: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 89: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 90: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 91: Negara apa yang ibukotanya Paris?",
+    "jawaban": "Prancis"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 92: Negara apa yang ibukotanya London?",
+    "jawaban": "Inggris"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 93: Negara apa yang ibukotanya Berlin?",
+    "jawaban": "Jerman"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 94: Negara apa yang ibukotanya Roma?",
+    "jawaban": "Italia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 95: Negara apa yang ibukotanya Madrid?",
+    "jawaban": "Spanyol"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 96: Negara apa yang ibukotanya Moskow?",
+    "jawaban": "Rusia"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 97: Negara apa yang ibukotanya Beijing?",
+    "jawaban": "China"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 98: Negara apa yang ibukotanya Seoul?",
+    "jawaban": "Korea Selatan"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 99: Negara apa yang ibukotanya Bangkok?",
+    "jawaban": "Thailand"
+  },
+  {
+    "soal": "PENGETAHUAN UMUM 100: Negara apa yang ibukotanya Kuala Lumpur?",
+    "jawaban": "Malaysia"
+  }
+]
